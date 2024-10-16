@@ -1,2 +1,4 @@
 inschrijvingen.xlsx
 punten.xlsx
+# Ignore Excel files
+*.xlsx
